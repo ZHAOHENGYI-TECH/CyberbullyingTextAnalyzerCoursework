@@ -43,7 +43,7 @@ void sorting(WordStat arr[], int n){
 
 //Show these top N words after sorting them.
 void display(WordStat sortedarr[], int totalcount, int N){
-    printf("---");
+    printf("---The most frequently occurring %d toxic words---\n",N);
     int limit=(N>totalcount)?totalcount:N;
     if(limit==0){
         printf("No words can be shown.\n");
@@ -72,7 +72,7 @@ void display2(WordStat allwords[], int toxicwordcount, int N){
     sorting(toxicwords, toxiccount);
 
     printf("\n");
-    printf("---");
+    printf("---The most frequently occurring %d toxic words----\n",N);
 
     int limit=(N>toxiccount)?toxiccount:N;
     if(limit==0){
@@ -89,7 +89,7 @@ void display2(WordStat allwords[], int toxicwordcount, int N){
     printf("---------------------------------\n");
 }
 
-
+//Show the summary statistics in the end.
 void display3(int totalwords, int uniquewords, int sentences){
     printf("\n---summary statistics---\n");
     printf("total words:%d\n",totalwords);
