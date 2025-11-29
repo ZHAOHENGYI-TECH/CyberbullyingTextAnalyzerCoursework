@@ -1,0 +1,25 @@
+This is a sample text for testing the cyberbullying text analyzer.
+The program should be able to detect toxic words and provide analysis.
+Some stupid comments might contain annoying language.
+But this text is relatively clean and should not trigger many alerts.
+
+Here are some examples of different types of content:
+- Normal conversation should pass through without issues
+- Mildly problematic text might contain words like dumb or silly
+- More concerning content could include stronger language
+- The analyzer needs to properly categorize different severity levels
+
+The quick brown fox jumps over the lazy dog.
+This sentence contains no toxic words and should be considered safe.
+Python programming is very interesting and useful.
+I hate when people write stupid code that doesn't work properly.
+Some developers can be really annoying when they don't test their code.
+
+Let's test some edge cases:
+Single words like crap or hell might be detected.
+Phrases like "shut up" should also be identified if implemented.
+The system should handle punctuation properly!
+Numbers like 123 and special characters @#$ should be processed correctly.
+
+This is the end of our test sample.
+Thank you for using the cyberbullying text analyzer.

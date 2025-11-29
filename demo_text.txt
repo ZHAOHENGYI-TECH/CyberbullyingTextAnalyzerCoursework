@@ -1,0 +1,13 @@
+
+This is a sample text for demonstrating the cyberbullying text analyzer.
+Some people write stupid comments that are really annoying.
+I hate when people say dumb things like "shut up" or use bad language.
+But most of the time, people are just trying to be helpful.
+
+The analyzer can detect different levels of toxic language:
+- Mild toxicity: words like silly, boring, dumb
+- Moderate toxicity: words like stupid, annoying, hate  
+- Severe toxicity: words like crap, hell, and offensive phrases
+
+This demonstration shows how the system categorizes and scores text content.
+        
