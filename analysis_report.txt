@@ -1,0 +1,61 @@
+============================================
+    Cyberbullying Text Analysis Report
+============================================
+Generated at: Sun Nov 30 13:39:26 2025
+Analyzed File: tweets.txt
+============================================
+
+Basic Statistics:
+--------------------------------------------
+Total Words: 389
+Unique Words: 343
+Lexical Diversity Index: 0.8817
+Average Sentence Length: 98.30 characters
+
+Toxic Word Statistics:
+--------------------------------------------
+Mildly Toxic Words: 3
+Moderately Toxic Words: 1
+Severely Toxic Words: 1
+Total Toxic Words: 5
+Overall Toxicity Score: 2.06%
+Toxicity Level Assessment: Minor (1-3%)
+
+Top 20 Most Frequent Words:
+--------------------------------------------
+Word                 Frequency  Toxicity Level 
+----                 ---------  -------------- 
+mkrnotcyberbullying  6          Normal         
+bullying             5          Normal         
+like                 4          Normal         
+out                  3          Normal         
+love                 3          Normal         
+de                   3          Normal         
+bully                3          Normal         
+girls                3          Normal         
+bring                3          Normal         
+meh                  2          Normal         
+angry                2          Normal         
+account              2          Normal         
+hope                 2          Normal         
+everything           2          Normal         
+best                 2          Normal         
+film                 2          Normal         
+people               2          Normal         
+walk                 2          Normal         
+notcyberbullying     2          Normal         
+know                 2          Normal         
+
+Toxic Word Details:
+--------------------------------------------
+Word                 Frequency  Toxicity Level  Toxic Count    
+----                 ---------  --------------  -----------    
+fuck                 2          Severe          2              
+stupid               1          Moderate        1              
+hate                 1          Mild            1              
+weird                1          Mild            1              
+silly                1          Mild            1              
+
+============================================
+Report generation complete
+============================================
